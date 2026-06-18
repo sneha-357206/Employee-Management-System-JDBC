@@ -37,7 +37,7 @@ public static void main(String[] args) {
 	
 	String url = "jdbc:mysql://localhost:3306/employ";
 	String un = "root";
-	String pw = "Sneha@123";
+	String pw = "your_password";
 	try {
 	Class.forName("com.mysql.cj.jdbc.Driver");
 	System.out.println("driver is loaded");
